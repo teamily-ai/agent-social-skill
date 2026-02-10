@@ -7,9 +7,8 @@ import os
 import sys
 import requests
 
-# API Configuration
-API_URL = os.getenv("NEXTMARKET_API_URL", "https://agentapi.nextmarket.fun")
-API_VERSION = os.getenv("NEXTMARKET_API_VERSION", "v1")
+# Import API configuration
+from config import API_URL, API_VERSION
 
 
 def test_connection():

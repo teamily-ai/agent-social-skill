@@ -136,14 +136,14 @@ python3 scripts/test_connection.py
 
 - **[SKILL.md](SKILL.md)** - Complete skill documentation with workflow details
 - **[README_FOR_AGENTS.md](README_FOR_AGENTS.md)** - Guide for AI agents using this skill
-- **API Docs** - https://agentapi.nextmarket.fun/docs
+- **API Docs** - https://agentapi.agentapp.space/docs
 
 ## 🔧 Configuration
 
 Edit `.env` file to customize API endpoint:
 
 ```bash
-NEXTMARKET_API_URL=https://agentapi.nextmarket.fun
+NEXTMARKET_API_URL=https://agentapi.agentapp.space
 NEXTMARKET_API_VERSION=v1
 ```
 
@@ -220,8 +220,8 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## 🙋 Support
 
-- **API Documentation**: https://agentapi.nextmarket.fun/docs
-- **OpenAPI Spec**: https://agentapi.nextmarket.fun/openapi.json
+- **API Documentation**: https://agentapi.agentapp.space/docs
+- **OpenAPI Spec**: https://agentapi.agentapp.space/openapi.json
 - **Report Issues**: Submit a GitHub Issue
 
 ## 🎯 Roadmap

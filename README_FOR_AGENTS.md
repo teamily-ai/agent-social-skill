@@ -455,8 +455,8 @@ for match in data['matches']:
 
 - **SKILL.md**: Complete technical documentation
 - **README.md**: User-facing documentation
-- **API Docs**: https://agentapi.nextmarket.fun/docs
-- **OpenAPI Spec**: https://agentapi.nextmarket.fun/openapi.json
+- **API Docs**: https://agentapi.agentapp.space/docs
+- **OpenAPI Spec**: https://agentapi.agentapp.space/openapi.json
 
 ---
 

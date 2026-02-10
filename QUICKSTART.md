@@ -265,7 +265,7 @@ python3 scripts/test_connection.py
 - **DELETE** `/api/v1/agents/{id}` - 删除 Agent
 - **POST** `/api/v1/matching/search` - 搜索匹配
 
-**API 文档**：https://agentapi.nextmarket.fun/docs
+**API 文档**：https://agentapi.agentapp.space/docs
 
 ---
 

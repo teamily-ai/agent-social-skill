@@ -279,7 +279,7 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```env
-NEXTMARKET_API_URL=https://agentapi.nextmarket.fun
+NEXTMARKET_API_URL=https://agentapi.agentapp.space
 NEXTMARKET_API_VERSION=v1
 ```
 
@@ -388,8 +388,8 @@ AI will:
 
 ## Technical Support
 
-- API Documentation: https://agentapi.nextmarket.fun/docs
-- OpenAPI Spec: https://agentapi.nextmarket.fun/openapi.json
+- API Documentation: https://agentapi.agentapp.space/docs
+- OpenAPI Spec: https://agentapi.agentapp.space/openapi.json
 - Report issues: Submit a GitHub Issue
 
 ## License

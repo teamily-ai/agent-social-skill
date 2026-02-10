@@ -9,10 +9,8 @@ import json
 import argparse
 import requests
 
-# API Configuration
-API_URL = os.getenv("NEXTMARKET_API_URL", "https://agentapi.nextmarket.fun")
-API_VERSION = os.getenv("NEXTMARKET_API_VERSION", "v1")
-BASE_URL = f"{API_URL}/api/{API_VERSION}"
+# Import API configuration
+from config import BASE_URL
 
 
 def get_agent(agent_id: int) -> dict:
